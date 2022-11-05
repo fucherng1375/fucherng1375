@@ -1,7 +1,7 @@
 .grid-container {
   display: grid;
   gap: 10px;
-  background-color: #2196F3;
+  background-color: #ffd684;
   padding: 10px;
 }
 
@@ -19,10 +19,11 @@
 }
 
 .grid-item {
-  background-color: rgb(6, 9, 100);
+  background-color: rgba(128, 68, 0, 0.568);
   text-align: center;
   padding: 20px;
   font-size: 30px;
+  border-radius: 3%;
 }
 
 .item1 {
@@ -53,8 +54,14 @@
 .img
 {
 	grid-column: 1;
+  width: 3vw;
+  height: 3vw;
 }
 .text
 {
 	grid-column: 2;
+}
+.Round-Img
+{
+  border-radius: 100%;
 }
