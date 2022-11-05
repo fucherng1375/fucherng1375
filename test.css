@@ -6,12 +6,6 @@
   padding: 1vw;
 }
 
-.Margin-0
-{
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
-
 .Small-Icon
 {
   border-radius: 4px;
@@ -20,7 +14,7 @@
 }
 
 .grid-item {
-  background-color: #aa7200;
+  background-color: #aa7100e7;
   text-align: center;
   padding: 20px;
   border-radius: 3%;
@@ -53,13 +47,8 @@
 }
 .img
 {
-	grid-column: 1;
   width: 5vw;
   height: 5vw;
-}
-.text
-{
-	grid-column: 2;
 }
 .Round-Img
 {
