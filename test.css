@@ -1,8 +1,9 @@
 .grid-container {
   display: grid;
-  gap: 10px;
+  gap: 1vw;
+  width: 100vw;
   background-color: #ffd684;
-  padding: 10px;
+  padding: 1vw;
 }
 
 .Margin-0
@@ -19,10 +20,9 @@
 }
 
 .grid-item {
-  background-color: rgba(128, 68, 0, 0.568);
+  background-color: #aa7200;
   text-align: center;
   padding: 20px;
-  font-size: 30px;
   border-radius: 3%;
 }
 
@@ -54,8 +54,8 @@
 .img
 {
 	grid-column: 1;
-  width: 3vw;
-  height: 3vw;
+  width: 5vw;
+  height: 5vw;
 }
 .text
 {
