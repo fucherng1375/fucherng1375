@@ -55,11 +55,13 @@
 }
 .Skill-text
 {
-  font-size: 1vw;
+  font-size: 2vw;
   margin-left:30%;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 .List-text
 {
-  font-size: 150%;
+  font-size: 200%;
   margin-top:auto; margin-bottom:auto;
 }
